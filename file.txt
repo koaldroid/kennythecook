@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 72FB-8702
+
+ Directory of C:\Users\Student\Documents\waste
+
+13-04-2023  10:52    <DIR>          .
+13-04-2023  10:52    <DIR>          ..
+13-04-2023  10:52                 0 file.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  123,143,311,360 bytes free
